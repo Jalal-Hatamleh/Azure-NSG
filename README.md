@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Jalal-Hatamleh/Azure-NSG/blob/main/images/1.png?raw=true" alt="Installation Screenshot"/>
+</p>
+
 # Traffic Examination and Network Security Groups (NSGs) in Azure
 
 In this home lab project, I worked on examining and analyzing network traffic between Azure Virtual Machines (VMs). I used different network protocols like ICMP, SSH, RDP, DNS, and DHCP to capture and inspect traffic. The goal was to understand how traffic flows, use Wireshark for packet capture, and explore the role of Network Security Groups (NSGs) in controlling traffic within Azure environments. Below are the steps I followed and the observations I made during the process.
