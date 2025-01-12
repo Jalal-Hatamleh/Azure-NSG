@@ -12,8 +12,8 @@ In this home lab project, I worked on examining and analyzing network traffic be
 - **Remote Desktop (RDP)** (for connecting to VMs)
 - **Wireshark** (for traffic analysis)
 - **PowerShell** (for traffic monitoring)
-- **Linux (Ubuntu Server 20.04)**
-- **Windows 10 (21H2)**
+- **Linux (Ubuntu Server 22.04)**
+- **Windows 10 Pro (Version 22H2)**
 
 ## Step-by-Step Walkthrough
 
